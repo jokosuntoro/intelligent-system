@@ -10,7 +10,7 @@
 		<h1 class="text-success text-center">
 			Sistem Cerdas untuk Prediksi Penyakit Kanker Payudara
 		</h1>
-		<form class="form-horizontal" method="POST" action="actForm.php">
+		<form class="form-horizontal" method="POST" action="act-form.php">
 			<fieldset>
 			<legend></legend>
 			<div class="form-row">
