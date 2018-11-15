@@ -9,6 +9,6 @@
 
 # Cara pemakaian
 1. Clone atau Download repository ini
-2. Eksrak folder intelligent-system.rar 
+2. Eksrak folder intelligent-system.zip 
 3. Simpan di dalam folder htdocs (.../xampp/htdocs/intelligent-system)
 4. Ubah nama folder intelligent-system (optional)
