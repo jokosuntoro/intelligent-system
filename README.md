@@ -2,7 +2,7 @@
 - Read dataset csv
 - berisi algoritme-algoritme dalam data mining/machine learning
 
-# Requirment
+# Persyaratan dan Kelengkapan
 - install xampp (atau web server lokal lainnya)
 - install text editor (notepad++, geany, dll)
 - download bootstrap (untuk mempercantik tampilan web), melalui link: https://getbootstrap.com/
